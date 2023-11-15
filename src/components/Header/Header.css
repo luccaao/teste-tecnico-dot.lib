@@ -1,0 +1,60 @@
+.container {
+    width: 100%;
+    
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow:  1px 1px 5px rgb(138, 136, 136)
+    
+}
+
+.navbar {
+width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    align-items: center;
+    padding: 10px;
+}
+
+.search-control {
+    display: flex;
+    align-items: center;
+    border: 2px solid rgb(155, 152, 152);
+    border-bottom: 5px solid  rgb(155, 152, 152);
+    
+}
+
+.inputPesquisa {
+    height: 30px;
+    border: none;
+    
+    
+}
+
+.pesquisa {
+    width: 20px;
+    border: none;
+    height: 20px;
+}
+
+.botao {
+    border: none;
+    cursor: pointer;
+    width: 40px;
+    height: 35px;
+    background-color: rgb(71, 211, 71);
+    
+    
+}
+
+.lista {
+    display: flex;
+    list-style-type: none;
+
+    gap: 40px;
+}
+
+li {
+    cursor: pointer;
+}
+

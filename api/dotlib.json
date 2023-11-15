@@ -1,0 +1,130 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "FUNDAMENTOS DA PSICANÁLISE DE FREUD A LACAN, VOL.2 : A CLÍNICA DA FANTASIA",
+      "editor": "Atheneu",
+      "year": "2010",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/bba95a8f2e0d8807071031328e5647bc/preview.jpg?d=400x600"
+    },
+    {
+      "id": 2,
+      "title": "PASSADOS PRESENTES: O GOLPE DE 1964 E A DITADURA MILITAR",
+      "editor": "Atheneu",
+      "year": "2021",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/04b2ce55107e5dc51013acecff02da71/preview.jpg?d=400x600"
+    },
+    {
+      "id": 3,
+      "title": "DA CABEÇA AOS PÉS : HISTÓRIAS DO CORPO HUMANO",
+      "editor": "Atheneu",
+      "year": "2017",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/10c0d31341c7c8ef4a0e5e5cfc8616c0/preview.jpg?d=400x600"
+    },
+    {
+      "id": 4,
+      "title": "DESENVOLVIMENTO SUSTENTÁVEL PARA O ANTROPOCENO: UM OLHAR PANORÂMICO",
+      "editor": "Atheneu",
+      "year": "2014",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/f8a8fa4c8f141829f9f535ee9f0c5f0b/preview.jpg?d=400x600"
+    },
+    {
+      "id": 5,
+      "title": "O LIVRO DA DOR E DO AMOR",
+      "editor": "Atheneu",
+      "year": "2011",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/353d83b753cfca9b28785b3638b66644/preview.jpg?d=400x600"
+    },
+    {
+      "id": 6,
+      "title": "ANÁLISE DE DADOS EXPERIMENTAIS, VOLUME I: FUNDAMENTOS DE ESTATÍSTICA E ESTIMAÇÃO DE PARÂMETROS",
+      "editor": "Atheneu",
+      "year": "2007",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/7b69c4e242f9553917f829ce40f85dc6/preview.jpg?d=400x600"
+    },
+    {
+      "id": 7,
+      "title": "FUNDAMENTOS DE GRAMÁTICA DO PORTUGUÊS",
+      "editor": "Senac-SP",
+      "year": "2010",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/e9a5f8ed8c180f18bc0ae0bcaebfb1c4/preview.jpg?d=400x600"
+    },
+    {
+      "id": 8,
+      "title": "PSIG, PROGRAMA SISTÊMICO INTEGRADO GLOBAL DE ATIVAÇÃO CEREBRAL CRIATIVA: SUBSÍDIOS BÁSICOS DE APOIO",
+      "editor": "Zahar",
+      "year": "2010",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/9e20276187b55eaf35f71b8e514943f4/preview.jpg?d=400x600"
+    },
+    {
+      "id": 9,
+      "title": "UMA HISTÓRIA EM CONSTRUÇÃO: O MARXISMO DE ONTEM E DE HOJE",
+      "editor": "Zahar",
+      "year": "2014",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/baa30398b2a063670dc5c2a95089fc4c/preview.jpg?d=400x600"
+    },
+    {
+      "id": 10,
+      "title": "O DOCUMENTÁRIO DE EDUARDO COUTINHO : TELEVISÃO, CINEMA E VÍDEO",
+      "editor": "Zahar",
+      "year": "2012",
+      "image": "https://d1qo7emxwx6va0.cloudfront.net/phoenixdata/42/7880a59a514b7419098c926f3e4ae710/preview.jpg?d=400x600"
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "title": "Ciências Agrárias"
+    },
+    {
+      "id": 12,
+      "title": "Ciências Biológicas"
+    },
+    {
+      "id": 13,
+      "title": "Ciências da Saúde"
+    },
+    {
+      "id": 14,
+      "title": "Ciências Exata e da Terra"
+    },
+    {
+      "id": 15,
+      "title": "Ciências Humanas"
+    },
+    {
+      "id": 16,
+      "title": "Ciências Sociais Aplicadas"
+    },
+    {
+      "id": 17,
+      "title": "Engenharias"
+    },
+    {
+      "id": 18,
+      "title": "Linguísticas, Letras e Artes"
+    },
+    {
+      "id": 19,
+      "title": "Multidisciplinar"
+    }
+  ],
+  "menu": [
+    {
+      "id": 20,
+      "title": "HOME"
+    },
+    {
+      "id": 21,
+      "title": "PESQUISA AVANÇADA"
+    },
+    {
+      "id": 22,
+      "title": "BASES"
+    },
+    {
+      "id": 23,
+      "title": "LOGIN"
+    }
+  ]
+}

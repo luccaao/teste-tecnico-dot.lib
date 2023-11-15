@@ -1,0 +1,15 @@
+.rodape-container {
+    width: 100%;
+    background-color: rgb(241, 238, 238);
+    display: flex;
+    
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.conteudo-rodape {
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
